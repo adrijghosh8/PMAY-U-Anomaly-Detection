@@ -1,0 +1,247 @@
+[
+  {
+    "state": "Andaman And Nicobar Islands",
+    "totalObservations": 1,
+    "anomalies": 1,
+    "normalObservations": 0,
+    "anomalyRatePercent": 100
+  },
+  {
+    "state": "Delhi",
+    "totalObservations": 5,
+    "anomalies": 4,
+    "normalObservations": 1,
+    "anomalyRatePercent": 80
+  },
+  {
+    "state": "Sikkim",
+    "totalObservations": 8,
+    "anomalies": 6,
+    "normalObservations": 2,
+    "anomalyRatePercent": 75
+  },
+  {
+    "state": "Goa",
+    "totalObservations": 17,
+    "anomalies": 10,
+    "normalObservations": 7,
+    "anomalyRatePercent": 58.82
+  },
+  {
+    "state": "Puducherry",
+    "totalObservations": 8,
+    "anomalies": 4,
+    "normalObservations": 4,
+    "anomalyRatePercent": 50
+  },
+  {
+    "state": "Telangana",
+    "totalObservations": 145,
+    "anomalies": 71,
+    "normalObservations": 74,
+    "anomalyRatePercent": 48.97
+  },
+  {
+    "state": "Andhra Pradesh",
+    "totalObservations": 147,
+    "anomalies": 64,
+    "normalObservations": 83,
+    "anomalyRatePercent": 43.54
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "totalObservations": 47,
+    "anomalies": 16,
+    "normalObservations": 31,
+    "anomalyRatePercent": 34.04
+  },
+  {
+    "state": "The Dadra And Nagar Haveli And Daman And Diu",
+    "totalObservations": 3,
+    "anomalies": 1,
+    "normalObservations": 2,
+    "anomalyRatePercent": 33.33
+  },
+  {
+    "state": "Himachal Pradesh",
+    "totalObservations": 71,
+    "anomalies": 22,
+    "normalObservations": 49,
+    "anomalyRatePercent": 30.99
+  },
+  {
+    "state": "Uttarakhand",
+    "totalObservations": 108,
+    "anomalies": 28,
+    "normalObservations": 80,
+    "anomalyRatePercent": 25.93
+  },
+  {
+    "state": "Rajasthan",
+    "totalObservations": 266,
+    "anomalies": 65,
+    "normalObservations": 201,
+    "anomalyRatePercent": 24.44
+  },
+  {
+    "state": "West Bengal",
+    "totalObservations": 136,
+    "anomalies": 32,
+    "normalObservations": 104,
+    "anomalyRatePercent": 23.53
+  },
+  {
+    "state": "Bihar",
+    "totalObservations": 264,
+    "anomalies": 61,
+    "normalObservations": 203,
+    "anomalyRatePercent": 23.11
+  },
+  {
+    "state": "Jharkhand",
+    "totalObservations": 54,
+    "anomalies": 11,
+    "normalObservations": 43,
+    "anomalyRatePercent": 20.37
+  },
+  {
+    "state": "Gujarat",
+    "totalObservations": 203,
+    "anomalies": 39,
+    "normalObservations": 164,
+    "anomalyRatePercent": 19.21
+  },
+  {
+    "state": "Maharashtra",
+    "totalObservations": 416,
+    "anomalies": 66,
+    "normalObservations": 350,
+    "anomalyRatePercent": 15.87
+  },
+  {
+    "state": "Manipur",
+    "totalObservations": 27,
+    "anomalies": 4,
+    "normalObservations": 23,
+    "anomalyRatePercent": 14.81
+  },
+  {
+    "state": "Karnataka",
+    "totalObservations": 303,
+    "anomalies": 44,
+    "normalObservations": 259,
+    "anomalyRatePercent": 14.52
+  },
+  {
+    "state": "Haryana",
+    "totalObservations": 86,
+    "anomalies": 11,
+    "normalObservations": 75,
+    "anomalyRatePercent": 12.79
+  },
+  {
+    "state": "Chhattisgarh",
+    "totalObservations": 185,
+    "anomalies": 23,
+    "normalObservations": 162,
+    "anomalyRatePercent": 12.43
+  },
+  {
+    "state": "Assam",
+    "totalObservations": 115,
+    "anomalies": 13,
+    "normalObservations": 102,
+    "anomalyRatePercent": 11.3
+  },
+  {
+    "state": "Meghalaya",
+    "totalObservations": 10,
+    "anomalies": 1,
+    "normalObservations": 9,
+    "anomalyRatePercent": 10
+  },
+  {
+    "state": "Madhya Pradesh",
+    "totalObservations": 420,
+    "anomalies": 34,
+    "normalObservations": 386,
+    "anomalyRatePercent": 8.1
+  },
+  {
+    "state": "Uttar Pradesh",
+    "totalObservations": 802,
+    "anomalies": 64,
+    "normalObservations": 738,
+    "anomalyRatePercent": 7.98
+  },
+  {
+    "state": "Odisha",
+    "totalObservations": 120,
+    "anomalies": 9,
+    "normalObservations": 111,
+    "anomalyRatePercent": 7.5
+  },
+  {
+    "state": "Punjab",
+    "totalObservations": 172,
+    "anomalies": 12,
+    "normalObservations": 160,
+    "anomalyRatePercent": 6.98
+  },
+  {
+    "state": "Jammu And Kashmir",
+    "totalObservations": 80,
+    "anomalies": 5,
+    "normalObservations": 75,
+    "anomalyRatePercent": 6.25
+  },
+  {
+    "state": "Tamil Nadu",
+    "totalObservations": 721,
+    "anomalies": 38,
+    "normalObservations": 683,
+    "anomalyRatePercent": 5.27
+  },
+  {
+    "state": "Kerala",
+    "totalObservations": 95,
+    "anomalies": 5,
+    "normalObservations": 90,
+    "anomalyRatePercent": 5.26
+  },
+  {
+    "state": "Tripura",
+    "totalObservations": 20,
+    "anomalies": 1,
+    "normalObservations": 19,
+    "anomalyRatePercent": 5
+  },
+  {
+    "state": "Mizoram",
+    "totalObservations": 23,
+    "anomalies": 1,
+    "normalObservations": 22,
+    "anomalyRatePercent": 4.35
+  },
+  {
+    "state": "Nagaland",
+    "totalObservations": 32,
+    "anomalies": 0,
+    "normalObservations": 32,
+    "anomalyRatePercent": 0
+  },
+  {
+    "state": "Ladakh",
+    "totalObservations": 2,
+    "anomalies": 0,
+    "normalObservations": 2,
+    "anomalyRatePercent": 0
+  },
+  {
+    "state": "Chandigarh",
+    "totalObservations": 1,
+    "anomalies": 0,
+    "normalObservations": 1,
+    "anomalyRatePercent": 0
+  }
+]

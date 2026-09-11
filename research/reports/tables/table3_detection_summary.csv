@@ -1,0 +1,9 @@
+Metric,Value
+Total observations,5113
+Normal observations,4347
+Anomalous observations,766
+Anomaly percentage,14.98%
+Final model,One-Class SVM
+Kernel,RBF
+Nu,0.15
+Gamma,0.05

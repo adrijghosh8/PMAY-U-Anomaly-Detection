@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "city": "Ahmedabad Municipal Corporation",
+    "features": [
+      {
+        "feature": "Houses_completed",
+        "originalValue": 194423,
+        "referenceMedian": 647,
+        "originalScore": 258.0626543552382,
+        "modifiedScore": 246.85589265498254,
+        "scoreChange": 11.20676170025564,
+        "absoluteInfluence": 11.20676170025564
+      },
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 4349.1,
+        "referenceMedian": 13.48,
+        "originalScore": 258.0626543552382,
+        "modifiedScore": 266.183835896212,
+        "scoreChange": -8.121181540973794,
+        "absoluteInfluence": 8.121181540973794
+      },
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 4035.68,
+        "referenceMedian": 10.85,
+        "originalScore": 258.0626543552382,
+        "modifiedScore": 265.6736996607468,
+        "scoreChange": -7.61104530550864,
+        "absoluteInfluence": 7.61104530550864
+      },
+      {
+        "feature": "Investment",
+        "originalValue": 25327.17,
+        "referenceMedian": 41.66,
+        "originalScore": 258.0626543552382,
+        "modifiedScore": 264.32665283851065,
+        "scoreChange": -6.2639984832724735,
+        "absoluteInfluence": 6.2639984832724735
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 205196,
+        "referenceMedian": 739,
+        "originalScore": 258.0626543552382,
+        "modifiedScore": 253.7083331564035,
+        "scoreChange": 4.354321198834668,
+        "absoluteInfluence": 4.354321198834668
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 207593,
+        "referenceMedian": 849,
+        "originalScore": 258.0626543552382,
+        "modifiedScore": 255.52370234874815,
+        "scoreChange": 2.5389520064900353,
+        "absoluteInfluence": 2.5389520064900353
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "city": "Surat Municipal Corporation",
+    "features": [
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 3635.89,
+        "referenceMedian": 13.48,
+        "originalScore": 240.1576118222993,
+        "modifiedScore": 249.53070453648988,
+        "scoreChange": -9.37309271419059,
+        "absoluteInfluence": 9.37309271419059
+      },
+      {
+        "feature": "Houses_completed",
+        "originalValue": 161225,
+        "referenceMedian": 647,
+        "originalScore": 240.1576118222993,
+        "modifiedScore": 230.80519704712088,
+        "scoreChange": 9.352414775178403,
+        "absoluteInfluence": 9.352414775178403
+      },
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 3599.23,
+        "referenceMedian": 10.85,
+        "originalScore": 240.1576118222993,
+        "modifiedScore": 248.55078359247383,
+        "scoreChange": -8.393171770174547,
+        "absoluteInfluence": 8.393171770174547
+      },
+      {
+        "feature": "Investment",
+        "originalValue": 19765.68,
+        "referenceMedian": 41.66,
+        "originalScore": 240.1576118222993,
+        "modifiedScore": 248.16646541208394,
+        "scoreChange": -8.00885358978465,
+        "absoluteInfluence": 8.00885358978465
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 161968,
+        "referenceMedian": 739,
+        "originalScore": 240.1576118222993,
+        "modifiedScore": 238.91493997998214,
+        "scoreChange": 1.2426718423171508,
+        "absoluteInfluence": 1.2426718423171508
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 163486,
+        "referenceMedian": 849,
+        "originalScore": 240.1576118222993,
+        "modifiedScore": 241.11781081475658,
+        "scoreChange": -0.9601989924572933,
+        "absoluteInfluence": 0.9601989924572933
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "city": "Pune Municipal Corporation",
+    "features": [
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 3375.63,
+        "referenceMedian": 13.48,
+        "originalScore": 236.60677819187504,
+        "modifiedScore": 246.44578246049687,
+        "scoreChange": -9.839004268621835,
+        "absoluteInfluence": 9.839004268621835
+      },
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 3072.19,
+        "referenceMedian": 10.85,
+        "originalScore": 236.60677819187504,
+        "modifiedScore": 245.69888559125582,
+        "scoreChange": -9.09210739938078,
+        "absoluteInfluence": 9.09210739938078
+      },
+      {
+        "feature": "Houses_completed",
+        "originalValue": 148161,
+        "referenceMedian": 647,
+        "originalScore": 236.60677819187504,
+        "modifiedScore": 229.11654459394114,
+        "scoreChange": 7.490233597933894,
+        "absoluteInfluence": 7.490233597933894
+      },
+      {
+        "feature": "Investment",
+        "originalValue": 26124.59,
+        "referenceMedian": 41.66,
+        "originalScore": 236.60677819187504,
+        "modifiedScore": 242.17449251051016,
+        "scoreChange": -5.567714318635126,
+        "absoluteInfluence": 5.567714318635126
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 155747,
+        "referenceMedian": 849,
+        "originalScore": 236.60677819187504,
+        "modifiedScore": 238.32509882207137,
+        "scoreChange": -1.718320630196331,
+        "absoluteInfluence": 1.718320630196331
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 150077,
+        "referenceMedian": 739,
+        "originalScore": 236.60677819187504,
+        "modifiedScore": 236.6912400728991,
+        "scoreChange": -0.08446188102405472,
+        "absoluteInfluence": 0.08446188102405472
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "city": "Hyderabad Municipal Corporation",
+    "features": [
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 2593.68,
+        "referenceMedian": 13.48,
+        "originalScore": 225.77141911684353,
+        "modifiedScore": 237.28112782009435,
+        "scoreChange": -11.509708703250823,
+        "absoluteInfluence": 11.509708703250823
+      },
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 2075.28,
+        "referenceMedian": 10.85,
+        "originalScore": 225.77141911684353,
+        "modifiedScore": 236.68848980481377,
+        "scoreChange": -10.917070687970238,
+        "absoluteInfluence": 10.917070687970238
+      },
+      {
+        "feature": "Investment",
+        "originalValue": 18800.31,
+        "referenceMedian": 41.66,
+        "originalScore": 225.77141911684353,
+        "modifiedScore": 234.0020728278548,
+        "scoreChange": -8.230653711011257,
+        "absoluteInfluence": 8.230653711011257
+      },
+      {
+        "feature": "Houses_completed",
+        "originalValue": 131236,
+        "referenceMedian": 647,
+        "originalScore": 225.77141911684353,
+        "modifiedScore": 219.9765007574406,
+        "scoreChange": 5.794918359402942,
+        "absoluteInfluence": 5.794918359402942
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 150782,
+        "referenceMedian": 849,
+        "originalScore": 225.77141911684353,
+        "modifiedScore": 227.15060380205708,
+        "scoreChange": -1.379184685213545,
+        "absoluteInfluence": 1.379184685213545
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 143207,
+        "referenceMedian": 739,
+        "originalScore": 225.77141911684353,
+        "modifiedScore": 225.64952416184516,
+        "scoreChange": 0.12189495499836767,
+        "absoluteInfluence": 0.12189495499836767
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "city": "Visakhapattnam Municipal Corporation",
+    "features": [
+      {
+        "feature": "Investment",
+        "originalValue": 8799.7,
+        "referenceMedian": 41.66,
+        "originalScore": 216.630457686499,
+        "modifiedScore": 231.00952205628118,
+        "scoreChange": -14.379064369782185,
+        "absoluteInfluence": 14.379064369782185
+      },
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 2649.17,
+        "referenceMedian": 13.48,
+        "originalScore": 216.630457686499,
+        "modifiedScore": 228.16692677596168,
+        "scoreChange": -11.536469089462685,
+        "absoluteInfluence": 11.536469089462685
+      },
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 2104.86,
+        "referenceMedian": 10.85,
+        "originalScore": 216.630457686499,
+        "modifiedScore": 227.6731010875001,
+        "scoreChange": -11.0426434010011,
+        "absoluteInfluence": 11.0426434010011
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 162171,
+        "referenceMedian": 739,
+        "originalScore": 216.630457686499,
+        "modifiedScore": 211.7435973867573,
+        "scoreChange": 4.8868602997416986,
+        "absoluteInfluence": 4.8868602997416986
+      },
+      {
+        "feature": "Houses_completed",
+        "originalValue": 91344,
+        "referenceMedian": 647,
+        "originalScore": 216.630457686499,
+        "modifiedScore": 219.62526034046527,
+        "scoreChange": -2.994802653966275,
+        "absoluteInfluence": 2.994802653966275
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 168961,
+        "referenceMedian": 849,
+        "originalScore": 216.630457686499,
+        "modifiedScore": 213.7368975128595,
+        "scoreChange": 2.893560173639486,
+        "absoluteInfluence": 2.893560173639486
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "city": "Bengaluru Municipal Corporation",
+    "features": [
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 2454.33,
+        "referenceMedian": 13.48,
+        "originalScore": 211.26249744601745,
+        "modifiedScore": 223.4143693465011,
+        "scoreChange": -12.151871900483656,
+        "absoluteInfluence": 12.151871900483656
+      },
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 2127.72,
+        "referenceMedian": 10.85,
+        "originalScore": 211.26249744601745,
+        "modifiedScore": 222.40481804648073,
+        "scoreChange": -11.142320600463279,
+        "absoluteInfluence": 11.142320600463279
+      },
+      {
+        "feature": "Investment",
+        "originalValue": 20837.81,
+        "referenceMedian": 41.66,
+        "originalScore": 211.26249744601745,
+        "modifiedScore": 218.15732232429596,
+        "scoreChange": -6.894824878278513,
+        "absoluteInfluence": 6.894824878278513
+      },
+      {
+        "feature": "Houses_completed",
+        "originalValue": 88666,
+        "referenceMedian": 647,
+        "originalScore": 211.26249744601745,
+        "modifiedScore": 214.5148323112028,
+        "scoreChange": -3.252334865185361,
+        "absoluteInfluence": 3.252334865185361
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 136578,
+        "referenceMedian": 849,
+        "originalScore": 211.26249744601745,
+        "modifiedScore": 213.68537220259904,
+        "scoreChange": -2.4228747565815922,
+        "absoluteInfluence": 2.4228747565815922
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 124019,
+        "referenceMedian": 739,
+        "originalScore": 211.26249744601745,
+        "modifiedScore": 213.00408676326032,
+        "scoreChange": -1.7415893172428696,
+        "absoluteInfluence": 1.7415893172428696
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "city": "Greater Mumbai Municipal Corporation",
+    "features": [
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 374.56,
+        "referenceMedian": 10.85,
+        "originalScore": 210.02860966846183,
+        "modifiedScore": 226.52730601095945,
+        "scoreChange": -16.498696342497624,
+        "absoluteInfluence": 16.498696342497624
+      },
+      {
+        "feature": "Investment",
+        "originalValue": 7324.68,
+        "referenceMedian": 41.66,
+        "originalScore": 210.02860966846183,
+        "modifiedScore": 225.47447419267138,
+        "scoreChange": -15.445864524209554,
+        "absoluteInfluence": 15.445864524209554
+      },
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 1634.56,
+        "referenceMedian": 13.48,
+        "originalScore": 210.02860966846183,
+        "modifiedScore": 224.12519353553205,
+        "scoreChange": -14.096583867070223,
+        "absoluteInfluence": 14.096583867070223
+      },
+      {
+        "feature": "Houses_completed",
+        "originalValue": 137793,
+        "referenceMedian": 647,
+        "originalScore": 210.02860966846183,
+        "modifiedScore": 198.4260895441217,
+        "scoreChange": 11.602520124340117,
+        "absoluteInfluence": 11.602520124340117
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 141515,
+        "referenceMedian": 739,
+        "originalScore": 210.02860966846183,
+        "modifiedScore": 207.1207688696268,
+        "scoreChange": 2.907840798835025,
+        "absoluteInfluence": 2.907840798835025
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 141515,
+        "referenceMedian": 849,
+        "originalScore": 210.02860966846183,
+        "modifiedScore": 210.44868654759256,
+        "scoreChange": -0.42007687913073255,
+        "absoluteInfluence": 0.42007687913073255
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "city": "Chennai Municipal Corporation",
+    "features": [
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 1735.12,
+        "referenceMedian": 13.48,
+        "originalScore": 185.56093350211236,
+        "modifiedScore": 200.34816635028457,
+        "scoreChange": -14.78723284817221,
+        "absoluteInfluence": 14.78723284817221
+      },
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 1466.82,
+        "referenceMedian": 10.85,
+        "originalScore": 185.56093350211236,
+        "modifiedScore": 198.9093663357101,
+        "scoreChange": -13.348432833597741,
+        "absoluteInfluence": 13.348432833597741
+      },
+      {
+        "feature": "Investment",
+        "originalValue": 13411.39,
+        "referenceMedian": 41.66,
+        "originalScore": 185.56093350211236,
+        "modifiedScore": 196.29284122590118,
+        "scoreChange": -10.731907723788822,
+        "absoluteInfluence": 10.731907723788822
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 97779,
+        "referenceMedian": 849,
+        "originalScore": 185.56093350211236,
+        "modifiedScore": 194.21571611127885,
+        "scoreChange": -8.654782609166489,
+        "absoluteInfluence": 8.654782609166489
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 96138,
+        "referenceMedian": 739,
+        "originalScore": 185.56093350211236,
+        "modifiedScore": 190.97403815837018,
+        "scoreChange": -5.413104656257815,
+        "absoluteInfluence": 5.413104656257815
+      },
+      {
+        "feature": "Houses_completed",
+        "originalValue": 76843,
+        "referenceMedian": 647,
+        "originalScore": 185.56093350211236,
+        "modifiedScore": 189.85855463294052,
+        "scoreChange": -4.297621130828162,
+        "absoluteInfluence": 4.297621130828162
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "city": "Andhra Pradesh Capital Region Development",
+    "features": [
+      {
+        "feature": "Investment",
+        "originalValue": 4221.74,
+        "referenceMedian": 41.66,
+        "originalScore": 171.78812695985764,
+        "modifiedScore": 192.77437093243446,
+        "scoreChange": -20.98624397257683,
+        "absoluteInfluence": 20.98624397257683
+      },
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 1669.97,
+        "referenceMedian": 13.48,
+        "originalScore": 171.78812695985764,
+        "modifiedScore": 186.86060401084472,
+        "scoreChange": -15.07247705098709,
+        "absoluteInfluence": 15.07247705098709
+      },
+      {
+        "feature": "Houses_completed",
+        "originalValue": 49578,
+        "referenceMedian": 647,
+        "originalScore": 171.78812695985764,
+        "modifiedScore": 185.68033482757258,
+        "scoreChange": -13.892207867714944,
+        "absoluteInfluence": 13.892207867714944
+      },
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 1521.55,
+        "referenceMedian": 10.85,
+        "originalScore": 171.78812695985764,
+        "modifiedScore": 184.9561336197841,
+        "scoreChange": -13.168006659926476,
+        "absoluteInfluence": 13.168006659926476
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 111154,
+        "referenceMedian": 849,
+        "originalScore": 171.78812695985764,
+        "modifiedScore": 175.3299862390862,
+        "scoreChange": -3.541859279228561,
+        "absoluteInfluence": 3.541859279228561
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 110196,
+        "referenceMedian": 739,
+        "originalScore": 171.78812695985764,
+        "modifiedScore": 171.25491282839783,
+        "scoreChange": 0.5332141314598005,
+        "absoluteInfluence": 0.5332141314598005
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "city": "Rajkot Municipal Corporation",
+    "features": [
+      {
+        "feature": "Central_assistance_sanctioned",
+        "originalValue": 1676.7,
+        "referenceMedian": 13.48,
+        "originalScore": 170.3462319382378,
+        "modifiedScore": 185.55142215440523,
+        "scoreChange": -15.205190216167438,
+        "absoluteInfluence": 15.205190216167438
+      },
+      {
+        "feature": "Investment",
+        "originalValue": 9409.46,
+        "referenceMedian": 41.66,
+        "originalScore": 170.3462319382378,
+        "modifiedScore": 184.52467459683803,
+        "scoreChange": -14.178442658600233,
+        "absoluteInfluence": 14.178442658600233
+      },
+      {
+        "feature": "Houses_sanctioned",
+        "originalValue": 75976,
+        "referenceMedian": 849,
+        "originalScore": 170.3462319382378,
+        "modifiedScore": 184.00911995463332,
+        "scoreChange": -13.662888016395527,
+        "absoluteInfluence": 13.662888016395527
+      },
+      {
+        "feature": "Central_assistance_released",
+        "originalValue": 1597.06,
+        "referenceMedian": 10.85,
+        "originalScore": 170.3462319382378,
+        "modifiedScore": 183.40152770375215,
+        "scoreChange": -13.055295765514359,
+        "absoluteInfluence": 13.055295765514359
+      },
+      {
+        "feature": "Houses_grounded",
+        "originalValue": 75800,
+        "referenceMedian": 739,
+        "originalScore": 170.3462319382378,
+        "modifiedScore": 180.2279152965557,
+        "scoreChange": -9.8816833583179,
+        "absoluteInfluence": 9.8816833583179
+      },
+      {
+        "feature": "Houses_completed",
+        "originalValue": 74573,
+        "referenceMedian": 647,
+        "originalScore": 170.3462319382378,
+        "modifiedScore": 173.67381061221747,
+        "scoreChange": -3.327578673979673,
+        "absoluteInfluence": 3.327578673979673
+      }
+    ]
+  }
+]

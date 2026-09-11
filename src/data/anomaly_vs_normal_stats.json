@@ -1,0 +1,68 @@
+[
+  {
+    "feature": "Investment",
+    "normalMedian": 41.42,
+    "anomalyMedian": 50.875,
+    "normalMean": 64.7418,
+    "anomalyMean": 707.4038,
+    "normal75th": 82.84,
+    "anomaly75th": 632.6175,
+    "normal95th": 213.957,
+    "anomaly95th": 2245.285
+  },
+  {
+    "feature": "Central_assistance_sanctioned",
+    "normalMedian": 13.55,
+    "anomalyMedian": 12.09,
+    "normalMean": 20.168,
+    "anomalyMean": 149.7501,
+    "normal75th": 26.58,
+    "anomaly75th": 159.5025,
+    "normal95th": 64.371,
+    "anomaly95th": 651.435
+  },
+  {
+    "feature": "Central_assistance_released",
+    "normalMedian": 10.98,
+    "anomalyMedian": 5.23,
+    "normalMean": 16.9098,
+    "anomalyMean": 136.5193,
+    "normal75th": 22.5825,
+    "anomaly75th": 141.435,
+    "normal95th": 54.5835,
+    "anomaly95th": 561.113
+  },
+  {
+    "feature": "Houses_sanctioned",
+    "normalMedian": 852,
+    "anomalyMedian": 791.5,
+    "normalMean": 1268.1415,
+    "anomalyMean": 8502.2702,
+    "normal75th": 1684.5,
+    "anomaly75th": 9153.5,
+    "normal95th": 4042.4,
+    "anomaly95th": 34726.25
+  },
+  {
+    "feature": "Houses_grounded",
+    "normalMedian": 742,
+    "anomalyMedian": 440,
+    "normalMean": 1126.83,
+    "anomalyMean": 8592.408,
+    "normal75th": 1510.25,
+    "anomaly75th": 9022,
+    "normal95th": 3686.85,
+    "anomaly95th": 35263
+  },
+  {
+    "feature": "Houses_completed",
+    "normalMedian": 641,
+    "anomalyMedian": 2970,
+    "normalMean": 975.6424,
+    "anomalyMean": 7784.8399,
+    "normal75th": 1337,
+    "anomaly75th": 8065,
+    "normal95th": 3094.8,
+    "anomaly95th": 31822.5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "feature": "Central_assistance_sanctioned",
+    "meanInfluence": 12.169281219938034,
+    "medianInfluence": 11.84417049497317,
+    "maxInfluence": 15.205190216167438
+  },
+  {
+    "feature": "Central_assistance_released",
+    "meanInfluence": 11.426879076603479,
+    "medianInfluence": 11.09248200073219,
+    "maxInfluence": 16.498696342497624
+  },
+  {
+    "feature": "Investment",
+    "meanInfluence": 11.068756822993965,
+    "medianInfluence": 9.48128071740004,
+    "maxInfluence": 20.98624397257683
+  },
+  {
+    "feature": "Houses_completed",
+    "meanInfluence": 7.321139374878541,
+    "medianInfluence": 6.642575978668418,
+    "maxInfluence": 13.892207867714944
+  },
+  {
+    "feature": "Houses_sanctioned",
+    "meanInfluence": 3.819269802849959,
+    "medianInfluence": 2.4809133815358138,
+    "maxInfluence": 13.662888016395527
+  },
+  {
+    "feature": "Houses_grounded",
+    "meanInfluence": 3.116764243902935,
+    "medianInfluence": 2.3247150580389473,
+    "maxInfluence": 9.8816833583179
+  }
+]

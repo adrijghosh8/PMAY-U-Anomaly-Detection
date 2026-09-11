@@ -1,0 +1,21 @@
+Country,State,Year,City,Investment,Central_assistance_sanctioned,Central_assistance_released,Houses_sanctioned,Houses_grounded,Houses_completed,Anomaly_Score,Anomaly_Label,Anomaly_Rank,Priority
+India,Gujarat,"Calendar Year (Jan - Dec), 2025",Ahmedabad Municipal Corporation,25327.17,4349.1,4035.68,207593.0,205196.0,194423.0,258.0626543552382,Anomaly,1,Critical
+India,Gujarat,"Calendar Year (Jan - Dec), 2025",Surat Municipal Corporation,19765.68,3635.89,3599.23,163486.0,161968.0,161225.0,240.1576118222993,Anomaly,2,Critical
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Pune Municipal Corporation,26124.59,3375.63,3072.19,155747.0,150077.0,148161.0,236.60677819187504,Anomaly,3,Critical
+India,Telangana,"Calendar Year (Jan - Dec), 2025",Hyderabad Municipal Corporation,18800.31,2593.68,2075.28,150782.0,143207.0,131236.0,225.77141911684353,Anomaly,4,Critical
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2025",Visakhapattnam Municipal Corporation,8799.7,2649.17,2104.86,168961.0,162171.0,91344.0,216.630457686499,Anomaly,5,Critical
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Bengaluru Municipal Corporation,20837.81,2454.33,2127.72,136578.0,124019.0,88666.0,211.26249744601745,Anomaly,6,Critical
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Greater Mumbai Municipal Corporation,7324.68,1634.56,374.56,141515.0,141515.0,137793.0,210.02860966846183,Anomaly,7,Critical
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Chennai Municipal Corporation,13411.39,1735.12,1466.82,97779.0,96138.0,76843.0,185.56093350211236,Anomaly,8,Critical
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2025",Andhra Pradesh Capital Region Development,4221.74,1669.97,1521.55,111154.0,110196.0,49578.0,171.78812695985764,Anomaly,9,Critical
+India,Gujarat,"Calendar Year (Jan - Dec), 2025",Rajkot Municipal Corporation,9409.46,1676.7,1597.06,75976.0,75800.0,74573.0,170.3462319382378,Anomaly,10,Critical
+India,Gujarat,"Calendar Year (Jan - Dec), 2025",Vadodara Municipal Corporation,9417.02,1713.55,1624.7,77678.0,77166.0,71037.0,170.1660875792534,Anomaly,11,Critical
+India,Rajasthan,"Calendar Year (Jan - Dec), 2025",Jaipur Municipal Corporation Heritage,8218.29,1552.7,1536.72,74725.0,74681.0,72472.0,166.74578626683544,Anomaly,12,Critical
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2025",Visakhapatnam Development Authority,3264.52,1475.21,1237.61,98292.0,97678.0,61174.0,166.26633301035764,Anomaly,13,Critical
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025","Thane, Municipal Corporation",12481.96,1530.39,1514.37,62864.0,62864.0,62864.0,160.13426720956545,Anomaly,14,Critical
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2025",Indore Municipal Corporation,6128.57,1287.77,1324.79,56928.0,56928.0,56197.0,143.11693752633815,Anomaly,15,Critical
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Nashik Municipal Corporation,8005.49,1321.99,1320.32,53712.0,53675.0,53612.0,142.60307882077768,Anomaly,16,Critical
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2025",Eluru Development Authority,2074.9,982.9,866.09,65525.0,65524.0,46302.0,131.25235836859565,Anomaly,17,Critical
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Ghaziabad Municipal Corporation,6381.39,1026.09,919.06,52967.0,49677.0,43572.0,128.88215166577663,Anomaly,18,Critical
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025","Kalyan-Dombivli, Municipal Corporation",8218.91,968.45,865.74,46684.0,46392.0,40800.0,125.70112745625914,Anomaly,19,Critical
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Lucknow Municipal Corporation,4609.46,981.11,883.79,52652.0,45869.0,45448.0,124.16768612181093,Anomaly,20,Critical

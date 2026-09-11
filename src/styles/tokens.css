@@ -1,0 +1,77 @@
+/*
+  Design tokens for the Anomaly Detector dashboard.
+
+  This is the ONE file to edit to re-theme the whole site.
+  Every color, font and spacing value used elsewhere in the app
+  reads from a variable defined here — change a value below and
+  it updates everywhere at once.
+*/
+
+:root {
+  /* ---- Color: base ---- */
+  --color-bg: #fbfbfa;              /* page background */
+  --color-surface: #ffffff;          /* card / panel background */
+  --color-surface-sunken: #f2f4f6;   /* recessed panels, table stripes */
+  --color-border: #e2e6ea;           /* default hairline border */
+  --color-border-strong: #c9d0d8;    /* emphasized border */
+
+  /* ---- Color: text ---- */
+  --color-ink: #16212b;              /* headings */
+  --color-body: #3d4a56;             /* body text */
+  --color-muted: #6b7885;            /* captions, secondary labels */
+  --color-faint: #97a2ac;            /* placeholders, disabled */
+
+  /* ---- Color: accent (civic blue) ---- */
+  --color-accent: #2c5a8c;
+  --color-accent-strong: #1d3f63;
+  --color-accent-soft: #e7eef5;
+
+  /* ---- Color: priority scale ---- */
+  --color-critical: #a3311a;
+  --color-critical-soft: #f7e6e2;
+  --color-high: #b8752b;
+  --color-high-soft: #f7ecdb;
+  --color-moderate: #3d6f96;
+  --color-moderate-soft: #e4eef5;
+  --color-low: #5c6773;
+  --color-low-soft: #eef0f2;
+
+  /* ---- Color: data series ---- */
+  --color-series-normal: #7c93a8;
+  --color-series-anomaly: #b8752b;
+
+  /* ---- Type ---- */
+  --font-display: "Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --font-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", "SF Mono", Consolas, monospace;
+
+  --text-3xl: 2.25rem;
+  --text-2xl: 1.75rem;
+  --text-xl: 1.375rem;
+  --text-lg: 1.125rem;
+  --text-md: 1rem;
+  --text-sm: 0.875rem;
+  --text-xs: 0.75rem;
+
+  /* ---- Spacing scale ---- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+
+  /* ---- Shape ---- */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  /* ---- Layout ---- */
+  --sidebar-width: 248px;
+  --content-max-width: 1080px;
+
+  /* ---- Motion ---- */
+  --transition-fast: 120ms ease;
+}

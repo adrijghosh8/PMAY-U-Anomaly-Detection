@@ -1,0 +1,20 @@
+[
+  {
+    "model": "Isolation Forest",
+    "configuration": "n_estimators=300, max_samples=0.8, max_features=1.0",
+    "stability": 0.910806,
+    "stabilitySd": 0.036321
+  },
+  {
+    "model": "Local Outlier Factor",
+    "configuration": "n_neighbors=75",
+    "stability": 0.924665,
+    "stabilitySd": 0.016247
+  },
+  {
+    "model": "One-Class SVM",
+    "configuration": "kernel=rbf, nu=0.15, gamma=0.05",
+    "stability": 1,
+    "stabilitySd": 0
+  }
+]

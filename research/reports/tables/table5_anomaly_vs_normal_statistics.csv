@@ -1,0 +1,7 @@
+Feature,Normal_Median,Anomaly_Median,Normal_Mean,Anomaly_Mean,Normal_75th_Percentile,Anomaly_75th_Percentile,Normal_95th_Percentile,Anomaly_95th_Percentile
+Investment,41.42,50.875,64.7418,707.4038,82.84,632.6175,213.957,2245.285
+Central_assistance_sanctioned,13.55,12.09,20.168,149.7501,26.58,159.5025,64.371,651.435
+Central_assistance_released,10.98,5.23,16.9098,136.5193,22.5825,141.435,54.5835,561.113
+Houses_sanctioned,852.0,791.5,1268.1415,8502.2702,1684.5,9153.5,4042.4,34726.25
+Houses_grounded,742.0,440.0,1126.83,8592.408,1510.25,9022.0,3686.85,35263.0
+Houses_completed,641.0,2970.0,975.6424,7784.8399,1337.0,8065.0,3094.8,31822.5

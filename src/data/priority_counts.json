@@ -1,0 +1,18 @@
+[
+  {
+    "priority": "Critical",
+    "count": 51
+  },
+  {
+    "priority": "High",
+    "count": 204
+  },
+  {
+    "priority": "Moderate",
+    "count": 256
+  },
+  {
+    "priority": "Low",
+    "count": 4602
+  }
+]

@@ -1,0 +1,4 @@
+Model,Selected Configuration,Top-5% Stability,Stability_SD
+Isolation Forest,"n_estimators=300, max_samples=0.8, max_features=1.0",0.910806,0.036321
+Local Outlier Factor,n_neighbors=75,0.924665,0.016247
+One-Class SVM,"kernel=rbf, nu=0.15, gamma=0.05",1.0,0.0

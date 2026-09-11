@@ -1,0 +1,36 @@
+State,Total_Observations,Anomalies,Normal_Observations,Anomaly_Rate_Percent
+Andaman And Nicobar Islands,1,1,0,100.0
+Delhi,5,4,1,80.0
+Sikkim,8,6,2,75.0
+Goa,17,10,7,58.82
+Puducherry,8,4,4,50.0
+Telangana,145,71,74,48.97
+Andhra Pradesh,147,64,83,43.54
+Arunachal Pradesh,47,16,31,34.04
+The Dadra And Nagar Haveli And Daman And Diu,3,1,2,33.33
+Himachal Pradesh,71,22,49,30.99
+Uttarakhand,108,28,80,25.93
+Rajasthan,266,65,201,24.44
+West Bengal,136,32,104,23.53
+Bihar,264,61,203,23.11
+Jharkhand,54,11,43,20.37
+Gujarat,203,39,164,19.21
+Maharashtra,416,66,350,15.87
+Manipur,27,4,23,14.81
+Karnataka,303,44,259,14.52
+Haryana,86,11,75,12.79
+Chhattisgarh,185,23,162,12.43
+Assam,115,13,102,11.3
+Meghalaya,10,1,9,10.0
+Madhya Pradesh,420,34,386,8.1
+Uttar Pradesh,802,64,738,7.98
+Odisha,120,9,111,7.5
+Punjab,172,12,160,6.98
+Jammu And Kashmir,80,5,75,6.25
+Tamil Nadu,721,38,683,5.27
+Kerala,95,5,90,5.26
+Tripura,20,1,19,5.0
+Mizoram,23,1,22,4.35
+Nagaland,32,0,32,0.0
+Ladakh,2,0,2,0.0
+Chandigarh,1,0,1,0.0
