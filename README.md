@@ -957,21 +957,6 @@ https://github.com/adrijghosh8/PMAY-U-Anomaly-Detection
 
 **Research Prototype — PMAY-U 2025**
 
-The project currently includes:
-
-- ✅ Exploratory data analysis
-- ✅ Data preprocessing
-- ✅ Multiple anomaly detection algorithms
-- ✅ Stability-based model comparison
-- ✅ Final One-Class SVM
-- ✅ Anomaly scoring and ranking
-- ✅ Investigation priority classification
-- ✅ Model-agnostic explainability
-- ✅ Research tables
-- ✅ Research figures
-- ✅ Automated tests
-- ✅ Interactive React dashboard
-- ✅ Reproducible model artifacts
 
 ---
 
