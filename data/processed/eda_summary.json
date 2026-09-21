@@ -1,0 +1,8 @@
+{
+    "rows": 5113,
+    "columns_original": 10,
+    "columns_after_feature_engineering": 15,
+    "duplicate_records": 0,
+    "total_missing_values": 955,
+    "housing_logical_inconsistencies": 0
+}
